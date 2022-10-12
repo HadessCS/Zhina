@@ -53,10 +53,11 @@ When zhian runs it checks the current directory for a `config.yaml`, if you wish
 --debug           Display debugging information
 --device string   What device to query, (default: "all")
 --displayconfig   Display configuration
---do string       encode64, encodedForTest
---help            Display help
+--do string       encode64
 --path string     Path to Exfiltrate
+--serve type           How Exfiltrate
 --version         Display version information
+--help            Display help
 ```
 
 
