@@ -11,6 +11,8 @@ A simple app to exfiltration data with ipfs and some features.
 ![zhina](zhina.png)
 
 
+Zhina is a tools for exfiltration information and Dedicated to Mahsa Amini and all Iranian boys and girls
+
 
 ## Installation
 
