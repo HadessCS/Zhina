@@ -2,7 +2,7 @@
 
 
 
-A simple app to exfiltration data with ipfs and some features.
+A simple app to exfiltration data with some features.
 
 
 
@@ -18,7 +18,7 @@ Zhina is a tools for exfiltration information and Dedicated to Mahsa Amini and a
 
 You can install a few ways:
 
-1. Download the binary for your OS from https://github.com/smford/tplink-hs1x-cli/releases
+1. Download the binary for your OS from https://github.com/HadessCS/zhina/releases
 1. or use `go install`
    ```
    go install -v github.com/hadesscs/zhian
