@@ -21,8 +21,7 @@ Brought to you by:
 ![zhina](zhina.png)
 
 
-Zhina is a tools for exfiltration information and Dedicated to Mahsa Amini and all Iranian boys and girls
-
+On 16 September 2022, a 22-year-old kurdish women with iranian nationality named Mahsa Amini[a], also known as Jina Amini, died in a hospital in Tehran, Iran, under suspicious circumstances. The Guidance Patrol, the religious morality police of Iran's government, arrested Amini for not wearing the hijab in accordance with government standards.
 
 ## Installation
 
